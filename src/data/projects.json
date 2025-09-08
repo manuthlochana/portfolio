@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "AI Personal Assistant",
+    "description": "Custom assistant with memory using Hugging Face and LLaMA 4 model with PEFT fine-tuning capabilities.",
+    "image": "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "github": "https://github.com/manuthlochana",
+    "demo": "http://huggingface.co/spaces/manuthlochana/Mybolt",
+    "tags": ["Python", "AI", "Hugging Face", "LLaMA 4"],
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Simple Chat App",
+    "description": "Real-time messaging application built with Python backend and SQL database with user authentication.",
+    "image": "https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "github": "https://github.com/manuthlochana",
+    "demo": "#",
+    "tags": ["Python", "SQL", "Real-time", "WebSocket"],
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "After Effects Motion Pack",
+    "description": "Comprehensive set of custom motion graphics templates and transitions for professional video editing.",
+    "image": "https://images.pexels.com/photos/3945313/pexels-photo-3945313.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "github": "#",
+    "demo": "#",
+    "tags": ["After Effects", "Motion Graphics", "Templates", "Animation"],
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "Thunder Storm Studio Works",
+    "description": "Showcase of creative projects including video editing, motion graphics, and design work from Thunder Storm Studio.",
+    "image": "https://images.pexels.com/photos/3945317/pexels-photo-3945317.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "github": "#",
+    "demo": "#",
+    "tags": ["Video Editing", "Motion Graphics", "Creative", "Studio"],
+    "featured": true
+  }
+]
